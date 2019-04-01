@@ -18,11 +18,17 @@ Entities are countries and also remote parts of countries, like the Canary Islan
 
 ## The Project
 
-I originally wrote this program to read the \<your callsign\>.log file of XMLog contact logging application when it starts up. In this newer version (V2.0) I added the ability to also read a comma delimited data file (##.csv). If you use some other logging app I'm sure it can export your contacts. If you can, select the columns you just want - callsign, country, QSL(card)received, and LotW received. Otherwise export the data and use a spreadsheet program to drop the columns you don't need and then reexport it as a .csv file. Those last two columns are then used to mark the country as already contacted so the alerter will disregard any 'new' contacts from that country. You can choose to still get alerts from an entity if no one from there has validated the contact via a QSL card or Logbook of the World.
+I originally wrote this program to read the \<your callsign\>.log file of XMLog contact logging application when it starts up. In this newer version (V2.0) I added the ability to also read a comma delimited data file (##.csv). If you use some other logging app I'm sure it can export your contacts. If you can, select the columns you just want - callsign, country, QSL(card)received, and LotW received. Otherwise export the data and use a spreadsheet program to drop the columns you don't need and then reexport it as a .csv file. Those last two columns are then used to mark the country as already contacted and verified, so the alerter will disregard any 'new' contacts from that country. You can choose to still get alerts from an entity if no one from there has validated the contact via a QSL card or Logbook of the World.
 
 This app was compiled for .Net 4.7.2 and "any cpu". You can always download the source and recompile with whichever options you prefer. I have chopped off several of the folders below the source code files to reduce the download time. All you have to do is recompile and Visual Studio (2017) will recreate them as they are working files and the 'bin' file tree for the Debug and Release compiled versions.
 
 I am uploading both the source files and the compiled application. That way you can test drive it and see if it looks like something you'd like to use and/or dive into the code. Either way, ENJOY!
+
+**Email Logon Info Encryption**
+
+This app uses encrypted email information in the Properties document - WSJTX DX Alerter.exe.config, because it is otherwise in plain text so someone could hack your email account and abuse it. If you just want to run the WSJT-X app you need to put your email information in there after encrypting it. The items are: user ID, user password, email server address, address of destination, address of sender. Find that document and open it with a plain text editor like Notepad. Use a TripleDES encrypter tool to create the encrypted values and edit them into the document and save it. If you are going to play with the source code, edit the encrypted values into the Properties::Settings in the source. The email port number is in clear text. If your server requires another port then edit that into the Properties document too.
+
+I have uploaded my encrypter app to github in the project Chucks_Encrypter-Decrypter. It is lightweight and simple to use. 
 
 ## License
 
