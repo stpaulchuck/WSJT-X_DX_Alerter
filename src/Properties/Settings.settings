@@ -21,22 +21,22 @@
       <Value Profile="(Default)">False</Value>
     </Setting>
     <Setting Name="SMTPserver" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">/nRvkUekipS7ZuZ/B5SjAVoqNNhKbvj1NXB+un421GknkzmZ3pB59qp5hLDpIE44</Value>
+      <Value Profile="(Default)">+fl98dvJF2/q1WNJGP0COmYy0eXXXaN8V/SR5Roh8XmjGWfPciHA3g==</Value>
     </Setting>
     <Setting Name="SMTPport" Type="System.Int32" Scope="Application">
       <Value Profile="(Default)">587</Value>
     </Setting>
     <Setting Name="EmailPWD" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">fag+M+D3BHlyfgu7BWBy5A==</Value>
+      <Value Profile="(Default)">CbT6rMh0gx9w1CJ7RwqSbA==</Value>
     </Setting>
     <Setting Name="EmailUID" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">EmMSqih1syzYUgo5ceTqSwLSgsCLuU8DH753ofSCz25gFybqR1418MN89fJicsPwAwk+dSbc7umEVTbJD2n2jQ==</Value>
+      <Value Profile="(Default)">8RsYPu0wKwtXehkv08Whcg==</Value>
     </Setting>
     <Setting Name="EmailTo" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">EmMSqih1syzYUgo5ceTqSwLSgsCLuU8DH753ofSCz25gFybqR1418MN89fJicsPwAwk+dSbc7umEVTbJD2n2jQ==</Value>
+      <Value Profile="(Default)">dZD0P+zhB175gO2wXfLR8NWwDrOlsXuJslqnPamPEf0LitRSuhq5Cg==</Value>
     </Setting>
     <Setting Name="EmailFrom" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">S8JvM4iWuFkdNSnVJ2aZ9ippfDKjuZjmpEWx2YnVZobrAmqwELfbyRjxdChbQLwTQtH2wqycpSI=</Value>
+      <Value Profile="(Default)">ARfJEN5wZ7pv6kEbmpdFd+iuCx24NKYQUCvMCKl16xcyd5jC3HTzCMz455yPZLCf</Value>
     </Setting>
     <Setting Name="LogHits" Type="System.Boolean" Scope="User">
       <Value Profile="(Default)">False</Value>
