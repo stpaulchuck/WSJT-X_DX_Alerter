@@ -1,0 +1,348 @@
+Prefix Entity
+1A][Sov. Mil. Order of Malta
+3A][Monaco
+3B6,3B7][Agalega/St. Brandon Is.
+3B8][Mauritius
+3B9][Rodriguez Is.
+3C][Equatorial Guinea
+3C0][Annobon Is.
+3D2,3D2/F][Fiji
+3D2/C][Conway Reef
+3D2/R][Rotuma Is.
+3DA][Swaziland
+3V][Tunisia
+3W,XV][Viet Nam
+3X][Guinea
+3Y][Bouvet
+3Y][Peter 1 Is.
+4J,4K][Azerbaijan
+4L][Georgia
+4O47][Montenegro
+4S][Sri Lanka
+4U/ITU][ITU HQ
+4U/UN][United Nations HQ
+4U/WB][World Bank
+4W][Timor - Leste
+4X,4Z][Israel
+5A][Libya
+5B,C4,P3][Cyprus
+5H,5I][Tanzania
+5N][Nigeria
+5R][Madagascar
+5T2][Mauritania
+5U3][Niger
+5V][Togo
+5W][Western Samoa
+5X][Uganda
+5Y,5Z][Kenya
+6V-6W][Senegal
+6Y][Jamaica
+6Z][Liberia
+7O][Yemen
+7P][Lesotho
+7Q][Malawi
+7T-7Y][Algeria
+8P][Barbados
+8Q][Maldives
+8R][Guyana
+9A][Croatia
+9G][Ghana
+9H][Malta
+9I,9J][Zambia
+9K][Kuwait
+9L][Sierra Leone
+9M0][Spratly Is.
+9M2,9M4][West Malaysia
+9M6,9M8][East Malaysia
+9N][Nepal
+9Q-9T][Dem. Rep. of Congo
+9U][Burundi
+9V][Singapore
+9X][Rwanda
+9Y,9Z][Trinidad/Tobago
+A2][Botswana
+A3][Tonga
+A4][Oman
+A5][Bhutan
+A6][United Arab Emirates
+A7][Qatar
+A9][Bahrain
+AP][Pakistan
+B][China
+BS7][Scarborough Reef
+BU-BX][Taiwan
+BV9P,BQ9P][Pratas Is.
+C2][Nauru
+C3][Andorra
+C5][The Gambia
+C6][Bahamas
+C8,C9][Mozambique
+CA-CE][Chile
+CE0E,CE0/E][Easter Is.
+CE0I,CE0/JF][Juan Fernandez Is.
+CE0X,CE0/S][San Felix/San Ambrosio
+CE9][Antarctica
+CM,CO][Cuba
+CN][Morocco
+CP][Bolivia
+CT][Portugal
+CT3,CT9][Madeira Is.
+CU][Azores
+CV-CX][Uruguay
+CY0][Sable Is.
+CY9][St. Paul Is.
+D2,D3][Angola
+D4][Cape Verde
+D6][Comoros
+DA-DR][Fed. Rep. of Germany
+DU-DZ,4D-4I][Philippines
+E3][Eritrea
+E4][Palestine
+E5][N. Cook Is.
+E5][S. Cook Is.
+E6][Niue
+E7][Bosnia-Hercegovina
+EA-EH][Spain
+EA6-EH6][Balearic Is.
+EA8-EH8][Canary Is.
+EA9-EH9][Ceuta/Melilla
+EI-EJ][Ireland
+EK][Armenia
+EL][Liberia
+EP,EQ][Iran
+ER][Moldova
+ES][Estonia
+ET][Ethiopia
+EU-EW][Belarus
+EX][Kyrgyzstan
+EY][Tajikistan
+EZ][Turkmenistan
+F][France
+FG][Guadeloupe
+FH][Mayotte
+FJ][St. Barthelemy
+FK][New Caledonia
+FK][Chesterfield Is.
+FM][Martinique
+FO][French Polynesia
+FP][St. Pierre/Miquelon
+FR][Reunion Is.
+FR/R][Reunion Is.
+FT/G][Glorioso Is.
+FT/J][Juan de Nova
+FT/E][Europa
+FT/T][Tromelin Is.
+FS][Saint Martin
+FT/W,FT0W][Crozet Is.
+FT/X,FT0X][Kerguelen Is.
+FT/Z,FT0Z][Amsterdam/St. Paul Is.
+FW][Wallis/Futuna Is.
+FY][French Guiana
+G,GX,M][England
+GD,GT][Isle of Man
+GI,GN][Northern Ireland
+GJ,GH][Jersey
+GM,GS][Scotland
+GU,GP][Guernsey
+GW,GC][Wales
+H4][Solomon Is.
+H40][Temotu Province
+HA,HG][Hungary
+HB][Switzerland
+HB0][Liechtenstein
+HC,HD][Ecuador
+HC8,HD8][Galapagos Is.
+HH][Haiti
+HI][Dominican Republic
+HJ,HK,5J,5K][Colombia
+HK0,HK0/M][Malpelo Is.
+HK0,HK0/A][San Andres/Providencia
+HL,6K-6N][Republic of Korea
+HO,HP][Panama
+HQ,HR][Honduras
+HS,E2][Thailand
+HV][Vatican
+HZ][Saudi Arabia
+I][Italy
+IS0,IM0][Sardinia
+J2][Djibouti
+J3][Grenada
+J5][Guinea-Bissau
+J6][St. Lucia
+J7][Dominica
+J8][St. Vincent
+JA-JS,7J-7N][Japan
+JD][Minami Torishima
+JD1][Ogasawara
+JT-JV][Mongolia
+JW][Svalbard
+JX][Jan Mayen
+JY][Jordan
+K,W,N,AA-AK][USA
+KG4][Guantanamo Bay
+KH0][Mariana Is.
+KH1][Baker/Howland Is.
+KH2][Guam
+KH3][Johnston Is.
+KH4][Midway Is.
+KH5][Palmyra/Jarvis Is.
+KH6,KH7,WH6][Hawaiian Is.
+KH7K][Kure Is.
+KH8][American Samoa
+KH848][Swains Is.
+KH9][Wake Is.
+KL,AL,NL,WL][Alaska
+KP1][Navassa Is.
+KP2][Virgin Is.
+KP3,KP4,NP3,NP4,WP3,WP4][Puerto Rico
+KP5][Desecheo Is.
+LA-LN][Norway
+LO-LW][Argentina
+LX][Luxembourg
+LY][Lithuania
+LZ][Bulgaria
+OA-OC][Peru
+OD][Lebanon
+OE][Austria
+OF-OJ][Finland
+OH0][Aland Is.
+OJ0,OH0M][Market Reef
+OK-OL][Czech Republic
+OM][Slovak Republic
+ON-OT][Belgium
+OU-OW,OZ][Denmark
+OX][Greenland
+OY][Faroe Is.
+P2][Papua New Guinea
+P4][Aruba
+P5][DPR of Korea
+PA-PI][Netherlands
+PJ][St Maarten France
+PJ2][Curacao
+PJ4][Bonaire
+PJ5,PJ7,PJ8][St. Eustatius
+PJ6][Saba
+PJ9][Netherlands Antillies
+PP-PY,ZV-ZZ][Brazil
+PY0F][Fernando de Noronha
+PY0S][St. Peter/St. Paul Rocks
+PY0T][Trindade/Martim Vaz Is.
+PZ][Suriname
+R1FJ][Franz Josef Land
+R1MV][Malyj Vysotskij
+S0][Western Sahara
+S2][Bangladesh
+S5][Slovenia
+S7][Seychelles
+S9][Sao Tome/Principe
+SA-SM,7S,8S][Sweden
+SN-SR][Poland
+ST][Sudan
+SU][Egypt
+SV-SZ,J4][Greece
+SV/A][Mount Athos
+SV5,J45][Dodecanese
+SV9,J49][Crete
+T2][Tuvalu
+T30][W. Kiribati (Gilbert Is.)
+T31][C. Kiribati (British Phoenix Is)
+T32][E. Kiribati (Line Is.)
+T33][Banaba Is. (Ocean Is.)
+T5,6O][Somalia
+T7][San Marino
+T8][Palau
+TA-TC][Turkey
+TF][Iceland
+TG,TD][Guatemala
+TI,TE][Costa Rica
+TI9][Cocos Is.
+TJ][Cameroon
+TK][Corsica
+TL][Central Africa
+TN][Congo (Republic of the)
+TR][Gabon
+TT][Chad
+TU][Cote d'Ivoire
+TY][Benin
+TZ][Mali
+UA1-UI1,UA3-UI3,UA4-UI4][European Russia
+RA1-RI1,RA3-RI3,RA4-RI4][European Russia
+UA2,RA2][Kaliningrad
+UA8-UI8,UI9,UI0,RA8-RZ8,RZ9,RZ0][Asiatic Russia
+UJ-UM][Uzbekistan
+UN-UQ][Kazakhstan
+UR-UZ,EM-EO][Ukraine
+V2][Antigua/Barbuda
+V3][Belize
+V4][St. Kitts/Nevis
+V5][Namibia
+V6][Micronesia
+V7][Marshall Is.
+V8][Brunei Darussalam
+VA-VG,VO,VY,CF-CK,CY-CZ][Canada
+VK,AX][Australia
+VK0][Heard Is.,Macquarie Is.
+VK9/C][Cocos (Keeling) Is.
+VK9/H][Lord Howe Is.
+VK9/M][Mellish Reef
+VK9/N][Norfolk Is.
+VK9/W][Willis Is.
+VK9/X][Christmas Is.
+VP2E][Anguilla
+VP2M][Montserrat
+VP2V][British Virgin Is.
+VP5][Turks/Caicos Is.
+VP6][Pitcairn Is.
+VP6D][Ducie Is.
+VP8/F][Falkland Is.
+VP8/G][S Georgia Is.
+VP8/O][S Orkney Is.
+VP8/SA][S Sandwich Is.
+VP8/SH][S Shetland Is.
+VP9][Bermuda
+VQ9][Chagos Is.
+VR][China (PPL'S Rep. of)
+VR2][Hong Kong
+VU][India
+VU4][Andaman/Nicobar Is.
+VU7][Lakshadweep Is.
+XA-XI][Mexico
+XA4-XI4][Revilla Gigedo
+XT][Burkina Faso
+XU][Cambodia
+XW][Laos
+XX9][Macao
+XY,XZ][Myanmar
+YA,T6][Afghanistan
+YB-YH][Indonesia
+YI][Iraq
+YJ][Vanuatu
+YK][Syria
+YL][Latvia
+YN,H6,H7,HT][Nicaragua
+YO-YR][Romania
+YS,HU][El Salvador
+YT,YU][Serbia
+YV-YY,4M][Venezuela
+YV0][Aves Is.
+Z2][Zimbabwe
+Z3][Macedonia
+Z8][S Sudan (Rep of)
+ZA][Albania
+ZB2][Gibraltar
+ZC4][UK Sov. Base Areas on Cyprus
+ZD7][St. Helena
+ZD8][Ascension Is.
+ZD9][Tristan da Cunha,AF Gough Is.
+ZF][Cayman Is.
+ZK1/N][No. Cook Is.
+ZK1/S][So. Cook Is.
+ZK2][Niue Is.
+ZK3][Tokelau Is.
+ZL,ZM][New Zealand
+ZL7][Chatham Is.
+ZL8][Kermadec Is.
+ZL9][New Zealand Subantarctic Islands
+ZP][Paraguay
+ZR-ZU][South Africa
+ZS8][Prince Edward/Marion Is.
